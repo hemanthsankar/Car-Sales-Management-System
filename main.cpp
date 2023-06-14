@@ -61,7 +61,7 @@ int main()
     cout<<endl;
     cout<<"***************************";
     cout<<endl;
-    cout<<"                       WELCOME TO FPCS CAR SALES                       ";
+    cout<<"                       WELCOME TO HS CAR SALES MANAGEMENT SYSTEM                       ";
     cout<<endl<<"***************************";
     _sleep(3000);
     system("clear");
@@ -159,7 +159,7 @@ int main()
                 system("clear");
                 cout<<"*************************_______________";
                 cout<<"                               ************";
-                cout<<"\n                          *      Thank you for using FPCS!!            *           ";
+                cout<<"\n                          *      Thank You for using HS Car Sales Management System!!      *           ";
                 cout<<"                               ************";
                 cout<<"*************************_______________";
                 _sleep(3000);
