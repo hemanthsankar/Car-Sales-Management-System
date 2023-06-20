@@ -164,7 +164,8 @@ int main()
                 cout<<"*************************_______________";
                 _sleep(3000);
                 exit(0);
-            } }
+            } 
+        }
         cout<<"\nDo you wish to continue? "; cin>>ch1; 
     }
     while(ch1=='Y'||ch1=='y');
